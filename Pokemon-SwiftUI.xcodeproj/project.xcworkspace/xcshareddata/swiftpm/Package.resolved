@@ -1,0 +1,33 @@
+{
+  "originHash" : "f79fe561b353eaddb6d6543178d7d000e7f2883d0a4396cd15790d1bd85bfbb2",
+  "pins" : [
+    {
+      "identity" : "ios-requester",
+      "kind" : "remoteSourceControl",
+      "location" : "https://dev.azure.com/wearetriple/triple-ios/_git/ios-requester",
+      "state" : {
+        "revision" : "defd0e51f7a3aa9ad204bb2a3214178030707199",
+        "version" : "1.0.35"
+      }
+    },
+    {
+      "identity" : "resolver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Resolver",
+      "state" : {
+        "revision" : "47602af1ac8d7952299fbd0bda3cfbd12cf3a8ca",
+        "version" : "1.5.1"
+      }
+    },
+    {
+      "identity" : "swiftlintplugins",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SimplyDanny/SwiftLintPlugins",
+      "state" : {
+        "revision" : "b8431a26655378581890d56b95a0b59aba9f62da",
+        "version" : "0.55.1"
+      }
+    }
+  ],
+  "version" : 3
+}
